@@ -10,7 +10,7 @@ for num2 in range(1,20, 2):
 
 #Solving Gauss' problem
 
-init = 0
+init = 0 #initiate an accumulator
 for each in range(1,101):
     init += each
 print(init) #5050
