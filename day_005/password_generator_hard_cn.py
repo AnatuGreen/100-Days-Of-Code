@@ -20,5 +20,6 @@ for j in range(0, nr_numbers):
 for k in range(0, nr_symbols):
     password.append(random.choice(symbols))
 
+print(password)
 shuffle(password)
 print("".join(password))
