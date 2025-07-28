@@ -23,5 +23,6 @@ while not at_goal():
     one_jump()   
 done()
         
-
+#Remember: that when solving reborg's on reborg's website, if you make a mistake and need to run your steps afresh, 
+#you have to reset the game. If not it will keep you in circles like it did me for hours.
     
