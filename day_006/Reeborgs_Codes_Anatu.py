@@ -67,6 +67,8 @@ while at_goal() == False: #can also use 'while not at_goal()' or 'at_goal() == !
     one_jump()
 done()
 
+#Interestin by the levels
+
 
 #level 3 ends
 
